@@ -4,7 +4,7 @@ import org.junit.Test;
 /**
  * Created by SHANE on 2015/09/13.
  */
-public class TestAlternateToInheritance {
+public class TestAlternativeToInheritance {
     Truck t1;
     Truck t2;
     Composite c1;
